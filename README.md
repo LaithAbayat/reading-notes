@@ -3,7 +3,7 @@
 _I'm **Laith Al-Abayat** and I have 29 years old.
 I graduated from **Petra University** with a major in **Computer Networks**._
 
-| Syntax      | Description |
+| Name       | Links |
 | ----------- | ----------- |
 | Read01      | [The link](https://laithabayat.github.io/reading-notes/Read01)       |
 | Read02      | [The link](https://laithabayat.github.io/reading-notes/Read02)       |
