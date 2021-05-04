@@ -5,7 +5,7 @@ I graduated from **Petra University** with a major in **Computer Networks**._
 
 | Name       | Links |
 | ----------- | ----------- |
-| Read01      | [The link](https://laithabayat.github.io/reading-notes/Read01)       |
-| Read02      | [The link](https://laithabayat.github.io/reading-notes/Read02)       |
-| Read03      | [The link](https://laithabayat.github.io/reading-notes/Read03)       |
-
+| Read01      | [Growth mindset](https://laithabayat.github.io/reading-notes/Read01)       |
+| Read02      | [Git](https://laithabayat.github.io/reading-notes/Read02)       |
+| Read03      | [HTML](https://laithabayat.github.io/reading-notes/Read03)       |
+| Read04      | [CSS](https://laithabayat.github.io/reading-notes/Read04)       |
