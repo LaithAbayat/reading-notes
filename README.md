@@ -11,3 +11,4 @@ I graduated from **Petra University** with a major in **Computer Networks**._
 | Read04      | [CSS](https://laithabayat.github.io/reading-notes/Read04)       |
 | Read05     | [JavaScript](https://laithabayat.github.io/reading-notes/Read05)       |
 | Read06     | [Operators and Loops](https://laithabayat.github.io/reading-notes/Read06)       |
+| Read07     | [JavaScript Functions](https://laithabayat.github.io/reading-notes/Read06)   
