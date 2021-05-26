@@ -21,3 +21,4 @@ I graduated from **Petra University** with a major in **Computer Networks**._
 | Read01      | [Introductory HTML and JavaScript](https://laithabayat.github.io/reading-notes/Read_01)       | 
 | Read02      | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://laithabayat.github.io/reading-notes/Read_02)       |
 | Read03      | [HTML Lists, CSS Boxes, JS Control Flow](https://laithabayat.github.io/reading-notes/Read_03)       |
+| Read04      | [HTML Links, JS Functions, and Intro to CSS Layout](https://laithabayat.github.io/reading-notes/Read_04)       |
